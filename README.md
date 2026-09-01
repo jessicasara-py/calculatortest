@@ -1,9 +1,13 @@
 # Python Calculator
 
+<p align="center">
+  <img src="calculator-icon.png" alt="Python Calculator" width="300">
+</p>
+
 Ein einfacher Taschenrechner, der mit **Python** entwickelt wurde.
 Das Programm kann grundlegende mathematische Berechnungen durchführen und eignet sich als kleines Python-Einsteigerprojekt.
 
-## ✨ Funktionen
+## Funktionen
 
 Der Calculator unterstützt folgende Rechenoperationen:
 
@@ -12,7 +16,7 @@ Der Calculator unterstützt folgende Rechenoperationen:
 * ✖️ Multiplikation
 * ➗ Division
 
-## 🚀 Installation
+## Installation
 
 Klone zuerst das Repository:
 
@@ -26,7 +30,7 @@ Wechsle anschließend in den Projektordner:
 cd <DEIN-PROJEKTORDNER>
 ```
 
-## ▶️ Verwendung
+## Verwendung
 
 Starte den Calculator mit Python:
 
@@ -42,20 +46,21 @@ python3 calculator.py
 
 Folge anschließend den Anweisungen im Terminal und gib die gewünschten Zahlen und Rechenoperationen ein.
 
-## 🛠️ Voraussetzungen
+## Voraussetzungen
 
 * Python 3.x
 * Keine zusätzlichen Python-Pakete erforderlich
 
-## 📁 Projektstruktur
+## Projektstruktur
 
 ```text
 python-calculator/
 ├── calculator.py
+├── calculator-icon.png
 └── README.md
 ```
 
-## 🎯 Ziel des Projekts
+## Ziel des Projekts
 
 Dieses Projekt wurde erstellt, um grundlegende Python-Konzepte zu üben, beispielsweise:
 
@@ -65,6 +70,6 @@ Dieses Projekt wurde erstellt, um grundlegende Python-Konzepte zu üben, beispie
 * Funktionen
 * Mathematische Operationen
 
-## 📄 Lizenz
+## Lizenz
 
 Dieses Projekt kann frei für Lern- und Übungszwecke verwendet werden.
